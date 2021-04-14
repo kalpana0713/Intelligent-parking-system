@@ -7,14 +7,21 @@ Server               : Apache/ Xampp server
 Back end (Database)	 : My SQL
 
 Supporting Browsers:
-Google Chrome. Internet Explorer (5), Mozilla Firefox, Opera
+
+Google Chrome. 
+Internet Explorer (5),
+Mozilla Firefox, 
+Opera
 
 Front End Software that used
 HTML
+
 JavaScript
+
 CSS
-PHP
+
 Bootstrap
 
 Front End Software that used
+
 PHP
